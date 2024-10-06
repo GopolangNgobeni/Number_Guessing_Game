@@ -1,3 +1,24 @@
-Number Guessing Game
-Description
-Welcome to the Number Guessing Game! In this game, you’ll attempt to guess a randomly selected number between 1 and 10. You have a limited number of attempts to guess the correct number. If you guess correctly, you’ll receive positive feedback and can choose to play again. If you run out of attempts, the game will reveal the correct number and give you the option to play another round or exit.
+# Number Guessing Game
+
+Welcome to the **Number Guessing Game**! This is a simple Python-based game where players attempt to guess a randomly generated number between 1 and 10. You have 5 attempts to guess the correct number, and hints are provided after each incorrect guess.
+
+## Features
+
+- Random number generation between 1 and 10.
+- 5 attempts to guess the correct number.
+- Hints provided after wrong guesses to help players.
+- Input validation to ensure valid entries.
+- Option to replay the game or exit after each round.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/Tic-Tac-Toe.git
